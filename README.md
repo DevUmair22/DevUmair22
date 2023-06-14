@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevUmair22
-- 👀 I’m interested in Web Development and Designing UI/UX.
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m a Full Stack Web Developer
+- 🌱 I’m building applications using ReactJs ,Express, SQL, MongoDB, Nodejs
 - 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me devumair22@gmail.com
 
