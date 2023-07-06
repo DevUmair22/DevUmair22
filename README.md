@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevUmair22
 - 👀 I’m a Full Stack Web Developer
-- 🌱 I’m building applications using ReactJs ,Express, SQL, MongoDB, Nodejs
+- 🌱 I’m building applications using ReactJs ,Express,TailwindCSS, SQL, MongoDB, Nodejs
 - 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me devumair22@gmail.com
 
