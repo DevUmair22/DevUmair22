@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevUmair22
 - 👀 I’m a Full Stack Web Developer
-- 🌱 I’m building applications using ReactJs ,Express,TailwindCSS, SQL, MongoDB, Nodejs
-- 💞️ I’m looking to collaborate on ReactJS
+- 🌱 I’m building applications using ReactJs ,Express,NextJs, NestJs, TailwindCSS, SQL, MongoDB, Nodejs
+- 💞️ I’m looking to collaborate on ReactJS, NextJS, NestJS, NoSQL and SQL projects.
 - 📫 How to reach me devumair22@gmail.com
 
 <!---
